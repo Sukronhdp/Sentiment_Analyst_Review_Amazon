@@ -7,30 +7,5 @@ This project is beneficial for businesses, researchers, and consumers seeking a 
 
 
 
-
-## 👏 About Authors
-
-`GROUP ATHENA 2`
-
-- Talitha Azaria Sani
-- Fanuel Oley
-- Muhammad Maulana Fathul Muin
-- Anisa Febriyanti
-- Roja Mei Ningsih
-- Indri Lutpiah
-
-
-
 ## 🔗 Links
-
-[Application Sentiment Analysis](https://ai-project-sibkm5-yac9ljydj9wbzpn34ih3kt.streamlit.app/)
-
-[Video Presentation](https://youtu.be/kE7CTU9VhLQ)
-
-
-
-
-## ✨ Sincere Gratitude To
-- Studi Independen Bersertifikat Kampus Merdeka Batch 5
-- Orbit Future Academy Orbit Kampus Artificial Intelligence 4 Jobs
-- AI Coach Abdulghoffar Lugas Aga P. S.Si
+[Application Sentiment Analysis]()
